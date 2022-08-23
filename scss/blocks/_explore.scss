@@ -1,0 +1,50 @@
+.explore__container{
+    width: 1200px;
+    padding-top: 40px;
+}
+.explore__title{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 112.5%;
+    color: #fff;
+}
+.explore__subtitle{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 112.5%;
+    color: #868686;
+    margin-top: 8px;
+}
+.explore__card{
+    margin-top: 24px;
+    width: 1170px;
+    height: 400px;
+    background-image: url(../../img/explore-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 13px;
+    padding-top: 200px;
+    padding-left: 47px;
+}
+.explore__card-title{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 64px;
+    color: #fff;
+}
+.explore__card-text{
+    margin-top: 16px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #fff;
+}
